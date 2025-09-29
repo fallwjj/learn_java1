@@ -45,7 +45,7 @@ public class Operators {
         System.out.println("现在x的值: " + x);        // x现在是5
         System.out.println();
         
-        // 3. 关系运算符 / Relational Operators
+        // 3. 关系运算符 / Relatinaol Operators
         System.out.println("3. 关系运算符 / Relational Operators:");
         
         int m = 10, n = 20;
