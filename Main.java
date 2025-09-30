@@ -66,3 +66,8 @@ class QuadraticEquationSolver{
 		}
 	}
 }
+/*plt.rcParams.update
+ * 
+ * 
+ * 
+ */
